@@ -11,7 +11,7 @@ function Blogs() {
         <div className="mb-20 ">
           <img
             className="w-[500px] h-[570px] mx-auto mt-2 rounded-lg"
-            src="/src/assets/blog-images/blog2.jpg"
+            src="/public/blog-images/blog2.jpg"
             alt=""
           />
           {/* Dynamic Ai */}
@@ -36,7 +36,7 @@ function Blogs() {
         <div className="mb-20 ">
           <img
             className="w-[500px] h-[560px] mx-auto mt-2 rounded-lg"
-            src="/src/assets/blog-images/Gemini_Generated.png"
+            src="/public/blog-images/Gemini_Generated.png"
             alt=""
           />
 
