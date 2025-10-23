@@ -2,7 +2,7 @@ function Blogs() {
   return (
     <>
       <div>
-        <h3 className="font-semibold text-3xl my-5  lg:my-10">
+        <h3 className="font-semibold lg:text-3xl text-2xl my-5  lg:my-10">
           Google Gemini - Best Professional Ai Photo Editors
         </h3>
 

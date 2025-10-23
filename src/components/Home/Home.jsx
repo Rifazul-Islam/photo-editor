@@ -3,7 +3,7 @@ import Blogs from "../Blogs/Blogs";
 function Home() {
   return (
     <div>
-      <div className=" bg-gray-200 rounded-2xl overflow-hidden lg:h-[500px] pt-1">
+      <div className=" bg-gray-200 rounded-2xl overflow-hidden lg:h-[500px] mt-1">
         <img
           src="/gemini-images/gemini-remove.png"
           alt="Gemini"
