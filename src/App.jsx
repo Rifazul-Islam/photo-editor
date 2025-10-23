@@ -4,7 +4,7 @@ import Home from "./components/Home/Home";
 function App() {
   return (
     <>
-      <div className="mx-4 ">
+      <div className="lg:mx-4 mx-2">
         <Home />
       </div>
     </>
