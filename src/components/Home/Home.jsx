@@ -5,7 +5,7 @@ function Home() {
     <div>
       <div className="mx-4  bg-gray-200 rounded-2xl overflow-hidden lg:h-[500px]">
         <img
-          src="/public/gemini-images/gemini-remove.png"
+          src="/gemini-images/gemini-remove.png"
           alt="Gemini"
           className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
         />

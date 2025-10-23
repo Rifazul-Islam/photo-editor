@@ -3,7 +3,7 @@ function Blogs() {
     <>
       <div>
         <h3 className="font-semibold text-3xl  my-10">
-          Google Gemini - Best Professional Ai Photo Editor
+          Google Gemini - Best Professional Ai Photo Editors
         </h3>
 
         {/* //01 blogs */}
@@ -11,7 +11,7 @@ function Blogs() {
         <div className="mb-20 ">
           <img
             className="w-[500px] h-[570px] mx-auto mt-2 rounded-lg"
-            src="/public/blog-images/blog2.jpg"
+            src="/blog-images/blog2.jpg"
             alt=""
           />
           {/* Dynamic Ai */}
@@ -36,7 +36,7 @@ function Blogs() {
         <div className="mb-20 ">
           <img
             className="w-[500px] h-[560px] mx-auto mt-2 rounded-lg"
-            src="/public/blog-images/Gemini_Generated.png"
+            src="/blog-images/Gemini_Generated.png"
             alt=""
           />
 
